@@ -1,10 +1,9 @@
 <html>
-    <body>
-        <head>
-            <title>Phone Repair</title>
-            <link rel="stylesheet" href="style.css"/>
-        </head>
-
+    <head>
+        <title>Phone Repair</title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>    
         <header>
             <a href="#price">Прайс-лист</a> <a href="#reviews">Відгуки</a> <a href="#photos">Фотографії</a>
         </header>
